@@ -1,2 +1,6 @@
 # PREPROCESSING-IN-NLP
 This particular project gives a basic idea of text preprocessing.In this project the three steps i.e. Stop word removal, Stemming and Lemmatization are demonstrated and their CSV file operations are performed. The application is made using the tkinter library in Python. There are various libraries which are importeed for preprocessing the data. One of the major library is Pandas.
+I have attached 3 documents which you can refer for the Project
+1. preprocessing.py:- This file contains the whole source code
+2. data.csv:- This is a small .csv file through which I have performed data cleansing
+3. nlp.png:- This file is the background og the GUI
